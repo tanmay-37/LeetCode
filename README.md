@@ -6,8 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/tanmay-37/LeetCode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/tanmay-37/LeetCode/tree/master/0029-divide-two-integers) |
+| [0223-rectangle-area](https://github.com/tanmay-37/LeetCode/tree/master/0223-rectangle-area) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/tanmay-37/LeetCode/tree/master/0029-divide-two-integers) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/tanmay-37/LeetCode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
