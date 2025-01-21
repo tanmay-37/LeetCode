@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2145-grid-game](https://github.com/tanmay-37/LeetCode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/tanmay-37/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Hash Table
 |  |
@@ -28,9 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [2145-grid-game](https://github.com/tanmay-37/LeetCode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/tanmay-37/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Database
 |  |
 | ------- |
 | [2087-confirmation-rate](https://github.com/tanmay-37/LeetCode/tree/master/2087-confirmation-rate) |
+## Prefix Sum
+|  |
+| ------- |
+| [2145-grid-game](https://github.com/tanmay-37/LeetCode/tree/master/2145-grid-game) |
 <!---LeetCode Topics End-->
