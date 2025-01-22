@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/tanmay-37/LeetCode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/tanmay-37/LeetCode/tree/master/0029-divide-two-integers) |
+| [0189-rotate-array](https://github.com/tanmay-37/LeetCode/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/tanmay-37/LeetCode/tree/master/0223-rectangle-area) |
 | [0866-rectangle-overlap](https://github.com/tanmay-37/LeetCode/tree/master/0866-rectangle-overlap) |
 ## Bit Manipulation
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/tanmay-37/LeetCode/tree/master/0189-rotate-array) |
 | [2145-grid-game](https://github.com/tanmay-37/LeetCode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/tanmay-37/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Hash Table
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/tanmay-37/LeetCode/tree/master/0205-isomorphic-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/tanmay-37/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
