@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/tanmay-37/LeetCode/tree/master/0595-big-countries) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/tanmay-37/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [2087-confirmation-rate](https://github.com/tanmay-37/LeetCode/tree/master/2087-confirmation-rate) |
 ## Prefix Sum
 |  |
