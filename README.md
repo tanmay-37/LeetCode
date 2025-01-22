@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/tanmay-37/LeetCode/tree/master/0205-isomorphic-strings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/tanmay-37/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Matrix
 |  |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2145-grid-game](https://github.com/tanmay-37/LeetCode/tree/master/2145-grid-game) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/tanmay-37/LeetCode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
