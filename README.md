@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0595-big-countries](https://github.com/tanmay-37/LeetCode/tree/master/0595-big-countries) |
 | [2087-confirmation-rate](https://github.com/tanmay-37/LeetCode/tree/master/2087-confirmation-rate) |
 ## Prefix Sum
 |  |
