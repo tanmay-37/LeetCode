@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/tanmay-37/LeetCode/tree/master/0189-rotate-array) |
+| [1396-count-servers-that-communicate](https://github.com/tanmay-37/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2145-grid-game](https://github.com/tanmay-37/LeetCode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/tanmay-37/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Hash Table
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/tanmay-37/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2145-grid-game](https://github.com/tanmay-37/LeetCode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/tanmay-37/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Database
@@ -53,4 +55,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/tanmay-37/LeetCode/tree/master/0189-rotate-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/tanmay-37/LeetCode/tree/master/1396-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/tanmay-37/LeetCode/tree/master/1396-count-servers-that-communicate) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/tanmay-37/LeetCode/tree/master/1396-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/tanmay-37/LeetCode/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
