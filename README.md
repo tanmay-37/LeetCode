@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/tanmay-37/LeetCode/tree/master/0205-isomorphic-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/tanmay-37/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3447-clear-digits](https://github.com/tanmay-37/LeetCode/tree/master/3447-clear-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,4 +110,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/tanmay-37/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/tanmay-37/LeetCode/tree/master/3447-clear-digits) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/tanmay-37/LeetCode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
