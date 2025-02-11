@@ -1,13 +1,9 @@
 class Solution {
 public:
     string removeOccurrences(string s, string part) {
-        string ans = "";
-        int n = part.size();
-
-        for(char c : s){
-            ans += c;
-            if(ans.size() >= n && ans.substr(ans.size() - n) == part) ans.erase(ans.size() - n);
+        while(s.find(part) != -1){
+            s.erase(s.find(part),part.length());
         }
-        return ans;
+        return s;
     }
 };
