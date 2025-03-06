@@ -15,8 +15,6 @@ public:
         for(int i = 1;i<=n*n;i++){
             if(freq[i] == 2) repeat = i;
             if(freq[i] == 0) miss = i;
-
-            cout<<freq[i]<<" ";
         }
 
         return {repeat, miss};
