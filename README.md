@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-rectangle-overlap](https://github.com/tanmay-37/LeetCode/tree/master/0866-rectangle-overlap) |
 | [1477-product-of-the-last-k-numbers](https://github.com/tanmay-37/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/tanmay-37/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2187-vowels-of-all-substrings](https://github.com/tanmay-37/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 | [2448-count-number-of-bad-pairs](https://github.com/tanmay-37/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/tanmay-37/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/tanmay-37/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/tanmay-37/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/tanmay-37/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/tanmay-37/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2187-vowels-of-all-substrings](https://github.com/tanmay-37/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/tanmay-37/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/tanmay-37/LeetCode/tree/master/3447-clear-digits) |
 ## Two Pointers
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/tanmay-37/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [2187-vowels-of-all-substrings](https://github.com/tanmay-37/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 ## Number Theory
 |  |
 | ------- |
@@ -204,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/tanmay-37/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3483-alternating-groups-ii](https://github.com/tanmay-37/LeetCode/tree/master/3483-alternating-groups-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [2187-vowels-of-all-substrings](https://github.com/tanmay-37/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 <!---LeetCode Topics End-->
