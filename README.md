@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/tanmay-37/LeetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/tanmay-37/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/tanmay-37/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/tanmay-37/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/tanmay-37/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2145-grid-game](https://github.com/tanmay-37/LeetCode/tree/master/2145-grid-game) |
+| [3643-zero-array-transformation-ii](https://github.com/tanmay-37/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## String
 |  |
 | ------- |
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2187-vowels-of-all-substrings](https://github.com/tanmay-37/LeetCode/tree/master/2187-vowels-of-all-substrings) |
+## Binary Search
+|  |
+| ------- |
+| [3643-zero-array-transformation-ii](https://github.com/tanmay-37/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
