@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tanmay-37/LeetCode/tree/master/0189-rotate-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/tanmay-37/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/tanmay-37/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1319-unique-number-of-occurrences](https://github.com/tanmay-37/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/tanmay-37/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/tanmay-37/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/tanmay-37/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/tanmay-37/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/tanmay-37/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1319-unique-number-of-occurrences](https://github.com/tanmay-37/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/tanmay-37/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/tanmay-37/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/tanmay-37/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
