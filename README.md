@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tanmay-37/LeetCode/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/tanmay-37/LeetCode/tree/master/0223-rectangle-area) |
 | [0866-rectangle-overlap](https://github.com/tanmay-37/LeetCode/tree/master/0866-rectangle-overlap) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/tanmay-37/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/tanmay-37/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/tanmay-37/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2187-vowels-of-all-substrings](https://github.com/tanmay-37/LeetCode/tree/master/2187-vowels-of-all-substrings) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/tanmay-37/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/tanmay-37/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/tanmay-37/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/tanmay-37/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/tanmay-37/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/tanmay-37/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/tanmay-37/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
