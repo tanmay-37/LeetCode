@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/tanmay-37/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/tanmay-37/LeetCode/tree/master/0189-rotate-array) |
+| [0435-non-overlapping-intervals](https://github.com/tanmay-37/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/tanmay-37/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/tanmay-37/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1319-unique-number-of-occurrences](https://github.com/tanmay-37/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tanmay-37/LeetCode/tree/master/0075-sort-colors) |
+| [0435-non-overlapping-intervals](https://github.com/tanmay-37/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/tanmay-37/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3321-type-of-triangle](https://github.com/tanmay-37/LeetCode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/tanmay-37/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/tanmay-37/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/tanmay-37/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Tree
 |  |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/tanmay-37/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/tanmay-37/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [2187-vowels-of-all-substrings](https://github.com/tanmay-37/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 ## Number Theory
