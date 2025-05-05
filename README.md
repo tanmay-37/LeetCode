@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/tanmay-37/LeetCode/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/tanmay-37/LeetCode/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/tanmay-37/LeetCode/tree/master/0223-rectangle-area) |
+| [0371-sum-of-two-integers](https://github.com/tanmay-37/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0866-rectangle-overlap](https://github.com/tanmay-37/LeetCode/tree/master/0866-rectangle-overlap) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tanmay-37/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/tanmay-37/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/tanmay-37/LeetCode/tree/master/0029-divide-two-integers) |
+| [0371-sum-of-two-integers](https://github.com/tanmay-37/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tanmay-37/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/tanmay-37/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Geometry
