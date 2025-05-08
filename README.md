@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/tanmay-37/LeetCode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/tanmay-37/LeetCode/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/tanmay-37/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/tanmay-37/LeetCode/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/tanmay-37/LeetCode/tree/master/0223-rectangle-area) |
 | [0371-sum-of-two-integers](https://github.com/tanmay-37/LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/tanmay-37/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/tanmay-37/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/tanmay-37/LeetCode/tree/master/0189-rotate-array) |
 | [0435-non-overlapping-intervals](https://github.com/tanmay-37/LeetCode/tree/master/0435-non-overlapping-intervals) |
